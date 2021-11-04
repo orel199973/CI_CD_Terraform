@@ -12,7 +12,7 @@
 * Use `azurerm` as a [provider](https://www.terraform.io/docs/language/providers/configuration.html).
 * Create `.tfvars` file for your secret variables (for each environment - staging/production)
 
-## Basic commands:
+## Basic commands: 
 * `terraform` - make sure terraform CLI is installed
 * `terraform init` - initialize terraform Azure modules
 * `terraform fmt` - automatically updates configurations in the current directory for readability and consistency
