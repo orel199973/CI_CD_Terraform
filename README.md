@@ -31,8 +31,6 @@
 
 # Node.js Weight Tracker:
 
-![Demo](docs/build-weight-tracker-app-demo.gif)
-
 This sample application demonstrates the following technologies.
 
 * [hapi](https://hapi.dev) - a wonderful Node.js application framework
